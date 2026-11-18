@@ -1,0 +1,6 @@
+# GitHub Pages settings. The app is already built, so the source code and
+# database files are excluded from publishing.
+exclude:
+  - source
+  - supabase
+  - README.md
